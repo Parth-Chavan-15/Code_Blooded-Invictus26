@@ -1,4 +1,4 @@
-# INVICTUS '26 Code_Blooded - Electrolyte Solutions MRP Engine
+# Invictus'26 Code_Blooded - Electrolyte Solutions MRP Engine
 
 An enterprise-grade, ACID-compliant Material Requirements Planning (MRP) engine built for the Invictus 2026 Hackathon. 
 
